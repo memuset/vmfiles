@@ -111,6 +111,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
+export PS1='\[\e[1;32m\]\u@\h\[\e[0m\]:\[\e[1;34m\]\w \$\[\e[0m\] '
+
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
 alias tmux="TERM=xterm-256color tmux"
