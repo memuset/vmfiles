@@ -14,6 +14,7 @@ I am a university student and I am learning about information science.
 
 My favorite thing to drink is alcohol, especially whiskey🥃
 Of course, I also like beer🍺 and wine🍷
+
 And sometimes I cosplay anime and games
 
 ## Skills and Expertise
