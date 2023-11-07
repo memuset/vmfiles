@@ -24,12 +24,12 @@ And sometimes I cosplay anime and games
 
 ## Contact Information
 
-- Bluesky: [https://bsky.app/profile/memuset.bsky.social]
-- Discord: [https://discord.com/users/132778039535730688]
-- GitHub: [https://github.com/memuset]
-- Twitter: [https://twitter.com/memuset]
-- Patreon: [https://www.patreon.com/memuset]
+- [Bluesky](https://bsky.app/profile/memuset.bsky.social): https://bsky.app/profile/memuset.bsky.social
+- [Discord](https://discord.com/users/132778039535730688): https://discord.com/users/132778039535730688
+- [GitHub](https://github.com/memuset): https://github.com/memuset
+- [Twitter](https://twitter.com/memuset): https://twitter.com/memuset
+- [Patreon](https://www.patreon.com/memuset): https://www.patreon.com/memuset
 
 ## Wishlist
 
-[Amazon.co.jp](https://www.amazon.co.jp/hz/wishlist/ls/3RF7ABJZ19JO7?ref_=wl_share)
+[Amazon.co.jp ほしい物リスト](https://www.amazon.co.jp/hz/wishlist/ls/3RF7ABJZ19JO7?ref_=wl_share)
